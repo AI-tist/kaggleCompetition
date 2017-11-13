@@ -1,3 +1,10 @@
+'''
+https://www.kaggle.com/c/spooky-author-identification
+This is a sample code for the competition named Spooky Author Identification.
+'''
+
+
+
 import numpy as np
 
 import pandas as pd
