@@ -1,3 +1,9 @@
+'''
+https://www.kaggle.com/c/zillow-prize-1
+This is a sample code for the competition named Zillow Prize: Zillow’s Home Value Prediction (Zestimate).
+'''
+
+
 import numpy as np
 import pandas as pd
 import xgboost as xgb
